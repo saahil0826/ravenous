@@ -5,17 +5,10 @@ A client-side React application, utilizing the Yelp API to search for local busi
 Works for the following cities
 
 
-2. Europe   
-   * Paris
-   * Berlin
-   * Dublin
-   * London
-   * Madrid
-   * Amsterdam
 
 1. North America
-  *  New York
-  *  Los Angeles
+    *  New York
+    *  Los Angeles
   *  San Diego
   *  Chicago
   *  Philadelphia
@@ -40,5 +33,13 @@ Works for the following cities
   *  Las Vegas
   *  Portland
   *  Oakland
+
+2. Europe   
+   * Paris
+   * Berlin
+   * Dublin
+   * London
+   * Madrid
+   * Amsterdam
 
 
