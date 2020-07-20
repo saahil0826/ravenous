@@ -2,6 +2,7 @@
 ## ravenous
 
 A client-side React application, utilizing the Yelp API to search for local businesses.
+
 [Check it here!](https://saahil0826.github.io/ravenous/)
 
 **Works in the following cities:**
