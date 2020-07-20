@@ -1,11 +1,6 @@
 require('dotenv').config()
 
 
-// const apiKey = process.env.API_KEY; // Insert API key here.
-
-// const apiKey = 'ef5GDqXKo-gYP6FjG0s4Ve47C7OHe4PPoUIFyltnJPMG67PWnIY4MnWdOyRPRJlcfluV3slRPHzm9bfhn_XTr_gcQXR03rALQUMZsIprExElL6xXpUx9P66voWgBW3Yx'; // Insert API key here.
-
-
 const Yelp = {
   search(term, location, sortBy) {
     return fetch(`https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/search?term=${term}&location=${location}&sort_by=${sortBy}`, {
