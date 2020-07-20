@@ -8,8 +8,8 @@ Works for the following cities
    * Item 3a
 
 2. Europe   
-  * Paris
-  * Berlin
+   * Paris
+   * Berlin
   * Dublin
   * London
   * Madrid
