@@ -4,14 +4,5 @@ A client-side React application, utilizing the Yelp API to search for local busi
 
 Works for the following cities
 
-*San Diego
-
-*Chicago
-
-*Paris
-
-*Philadelphia
-
-*Denver
-
-*Vancouver
+  * Item 2a
+  * Item 2b
