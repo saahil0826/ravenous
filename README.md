@@ -4,24 +4,22 @@ A client-side React application, utilizing the Yelp API to search for local busi
 
 Works for the following cities
 
-1. Item 3
-   * Item 3a
 
 2. Europe   
    * Paris
    * Berlin
-  * Dublin
-  * London
-  * Madrid
-  * Amsterdam
+   * Dublin
+   * London
+   * Madrid
+   * Amsterdam
 
 1. North America
-   * New York
-   * Los Angeles
-   * San Diego
-   * Chicago
-   * Philadelphia
-   * Denver
+   *  New York
+   *  Los Angeles
+   *  San Diego
+   *  Chicago
+   *  Philadelphia
+   *  Denver
 * Vancouver
 * San Francisco
 * Dallas
