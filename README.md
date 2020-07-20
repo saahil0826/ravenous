@@ -20,8 +20,8 @@ Works for the following cities
    *  Chicago
    *  Philadelphia
    *  Denver
-* Vancouver
-* San Francisco
+  * Vancouver
+  * San Francisco
 * Dallas
 * Washington, DC
 * Atlanta
