@@ -14,31 +14,31 @@ Works for the following cities
    * Amsterdam
 
 1. North America
-   *  New York
-   *  Los Angeles
-   *  San Diego
-   *  Chicago
-   *  Philadelphia
-   *  Denver
-  * Vancouver
-  * San Francisco
-* Dallas
-* Washington, DC
-* Atlanta
-* Toronto
-* Honolulu
-* Miami
-* San Jose
-* Detroit
-* Saint Louis
-* Palo Alto
-* Austin
-* Houston
-* Seattle
-* Boston
-* Minneapolis
-* Las Vegas
-* Portland
-* Oakland
+  *  New York
+  *  Los Angeles
+  *  San Diego
+  *  Chicago
+  *  Philadelphia
+  *  Denver
+  *  Vancouver
+  *  San Francisco
+  *  Dallas
+  *  Washington, DC
+  *  Atlanta
+  *  Toronto
+  *  Honolulu
+  *  Miami
+  *  San Jose
+  *  Detroit
+  *  Saint Louis
+  *  Palo Alto
+  *  Austin
+  *  Houston
+  *  Seattle
+  *  Boston
+  *  Minneapolis
+  *  Las Vegas
+  *  Portland
+  *  Oakland
 
 
